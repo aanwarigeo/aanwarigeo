@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Anwarullah Anwari</h1>
+  <p><b>Civil Engineer & Water Resources Specialist | Optimizing Land & Water Resources with GIS, Remote Sensing, ML, and AI</b></p>
   
   <p>
     <a href="mailto:aanwarigeo@outlook.com"><img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook Email"></a>
