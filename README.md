@@ -3,17 +3,19 @@
   <p><b>Civil Engineer Specialized in Water Resources Management, Remote Sensing, and GIS</b></p>
   
 <div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/aanwarigeo/"><img src="https://github.com/aanwarigeo/PersonalDocuments/blob/main/linkedin-logo.png" alt="Anwarullah Anwari | LinkedIn" width="30px"/></a>
-  <a href="https://x.com/aanwarigeo"><img src="https://github.com/aanwarigeo/PersonalDocuments/blob/main/X_logo.svg" alt="Anwarullah Anwari | X" width="21px"/></a>
-  <a href="https://www.facebook.com/AnwariGeo/"><img src="https://github.com/aanwarigeo/PersonalDocuments/blob/main/Facebook.png" alt="Anwarullah Anwari | Facebook" width="25px"/></a>
+  <a href="https://www.linkedin.com/in/aanwarigeo/"><img src="https://img.shields.io/badge/My-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/aanwarigeo"><img src="https://img.shields.io/badge/My-X_follow_@aanwarigeo-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.facebook.com/AnwariGeo"><img src="https://img.shields.io/badge/My-Facebook-0A66C2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/aanwarigeo/"><img src="https://img.shields.io/badge/My-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 </br>
-
 </div>
+
+
 
 ---
 
-Civil Engineer with a Master degree in Integrated Water Resources Management. I apply remote sensing data, tools, and technologies for land and water resource challenges. I am Passionate about monitoring hydrological extremes risks including floods and droughts and their influence on existing infrastructure and enviroment. Having lived across Afghanistan, Pakistan, India, Jordan, and Germany, I speak Pashto, Urdu, Dari/Persian, English, Hindi, and basic German—bringing a global perspective to the challenges I love solving.
+I'm civil engineer with a master degree in integrated water resources management. Here I will be exploring and sharing different software tools that help those who manage and monitor flood and drought risks, water resource challenges, and the protection of critical infrastructure. Explore my [GitHub Repositories](https://github.com/aanwarigeo?tab=repositories) for updates to better understanding these vital areas.    
 
 
 ---
